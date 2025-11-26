@@ -1,5 +1,5 @@
 # Ex6 Right Rotation LinkedList
-## DATE:21.08.2025
+## DATE: 21.08.2025
 ## AIM:
 To write a Java  program to:Create a singly linked list.Rotate the linked list to the right by k positions.Display the rotated linked list.
 ## Algorithm
