@@ -7,7 +7,7 @@ If there is no cycle, the program should return null without modifying the linke
 1. Start the program.
 2. Read input & build linked list.
 3. If pos >= 0, link last node to pos node.
-4. Use Floyd’s algorithm to detect cycle.
+4. Use Floyd’s algorithm to detect cycle. 
 5. If no cycle → print "no cycle".
 6. If cycle detected:
          Move second pointer from head until it meets slow pointer.
